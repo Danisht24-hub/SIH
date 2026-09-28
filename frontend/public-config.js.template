@@ -1,0 +1,1 @@
+window.__COMPARIFY_API_URL__ = "${COMPARIFY_API_URL}";

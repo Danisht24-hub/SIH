@@ -1,0 +1,13 @@
+{
+  "methodology": "Representative domestic city-pairs. Weights are deliberately configurable and marked provisional until replaced with DGCA passenger-traffic weights.",
+  "routes": [
+    {"origin":"DEL","destination":"BOM","weight":1.0,"source":"provisional_equal_weight"},
+    {"origin":"DEL","destination":"BLR","weight":1.0,"source":"provisional_equal_weight"},
+    {"origin":"BOM","destination":"BLR","weight":1.0,"source":"provisional_equal_weight"},
+    {"origin":"DEL","destination":"CCU","weight":1.0,"source":"provisional_equal_weight"},
+    {"origin":"BLR","destination":"HYD","weight":1.0,"source":"provisional_equal_weight"},
+    {"origin":"MAA","destination":"DEL","weight":1.0,"source":"provisional_equal_weight"},
+    {"origin":"DEL","destination":"HYD","weight":1.0,"source":"provisional_equal_weight"},
+    {"origin":"BOM","destination":"DEL","weight":1.0,"source":"provisional_equal_weight"}
+  ]
+}
